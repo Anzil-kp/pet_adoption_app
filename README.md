@@ -1,17 +1,4 @@
-# pet_adoption_app
+### Known Issue
+Due to a GitHub raw image link misconfiguration, images did not load during testing. The app is otherwise fully functional (API, offline, favorites, adoption,  etc.). This will be corrected in the next update.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# pet_adoption_app
+Thank you for understanding.
